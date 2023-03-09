@@ -1,0 +1,167 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "taljacobson",
+      "name": "Tal Jacobson",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/13042769?v=4",
+      "profile": "https://github.com/taljacobson",
+      "contributions": [
+        "maintenance",
+        "doc",
+        "projectManagement"
+      ]
+    },
+    {
+      "login": "marloncepeda",
+      "name": "marloncepeda",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/25042632?v=4",
+      "profile": "https://github.com/marloncepeda",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "Gorniv",
+      "name": "Kravchenko Igor",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/963316?v=4",
+      "profile": "https://medium.com/it-challenge",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "SiDevesh",
+      "name": "SiDevesh",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/17254413?v=4",
+      "profile": "https://github.com/SiDevesh",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "spidgorny",
+      "name": "Slawa Pidgorny",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1579235?v=4",
+      "profile": "http://have-you-been-here.com/",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "haideraltahan",
+      "name": "Haider Al-Tahan",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/4427929?v=4",
+      "profile": "http://haideraltahan.com",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "newerton",
+      "name": "Newerton",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/4175945?v=4",
+      "profile": "http://newerton.com",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "kengu",
+      "name": "Kenneth Gulbrandsøy",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/866528?v=4",
+      "profile": "http://www.discoos.org",
+      "contributions": [
+        "bug",
+        "test"
+      ]
+    },
+    {
+      "login": "xsahil03x",
+      "name": "Sahil Kumar",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/25670178?v=4",
+      "profile": "http://www.linkedin.com/in/xsahil03x",
+      "contributions": [
+        "test"
+      ]
+    },
+    {
+      "login": "rwrz",
+      "name": "Rodrigo Boratto",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/2169309?v=4",
+      "profile": "http://www.yodsoft.com",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "RKKgithub",
+      "name": "RKKgithub",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/63288678?v=4",
+      "profile": "https://github.com/RKKgithub",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "ir2pid",
+      "name": "Sudipta Dutta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/907075?v=4",
+      "profile": "https://ir2pid.github.io",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "mzdm",
+      "name": "Matěj Žídek",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67197047?v=4",
+      "profile": "https://github.com/mzdm",
+      "contributions": [
+        "bug",
+        "code",
+        "platform",
+        "maintenance",
+        "ideas",
+        "doc"
+      ]
+    },
+    {
+      "login": "ride4sun",
+      "name": "ride4sun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7740651?v=4",
+      "profile": "https://github.com/ride4sun",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "zognotadog",
+      "name": "zognotadog",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12435592?v=4",
+      "profile": "https://github.com/zognotadog",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Jayson1999",
+      "name": "Jayson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44394801?v=4",
+      "profile": "https://github.com/Jayson1999",
+      "contributions": [
+        "bug"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "IntroViews-Flutter",
+  "projectOwner": "aagarwal1012",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

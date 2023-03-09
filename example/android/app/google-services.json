@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "821488789605",
+    "project_id": "travtel-4e717",
+    "storage_bucket": "travtel-4e717.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821488789605:android:9cc59bdd19b12536917e8c",
+        "android_client_info": {
+          "package_name": "com.example.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821488789605-i9k3n2jhkkqvgk19pn51hjna36u0ip0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7e-yHu1_h9AzfHET3MUr1lOJrGSrmscs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821488789605-i9k3n2jhkkqvgk19pn51hjna36u0ip0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
